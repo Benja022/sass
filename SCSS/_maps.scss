@@ -1,0 +1,26 @@
+$font-size: (
+  "small": 0.5rem,
+  "initial": 0.875 rem,
+  "medium": 1rem,
+  "large": 1.5rem,
+  "x-large": 2rem,
+  "xxx-large": 5rem,
+);
+$titillium-font-weight: (
+  "extralight": 200,
+  "light": 300,
+  "regular": 400,
+  "semibold": 600,
+  "bold": 700,
+  "black": 900,
+);
+$rubik-font-weight: (
+  "light": 300,
+  "regular": 400,
+  "medium": 500,
+  "semibold": 600,
+  "bold": 700,
+  "extrabold": 800,
+  "black": 900,
+);
+$rainbow: ($purple, $cyan, $green, $yellow, $orange);
